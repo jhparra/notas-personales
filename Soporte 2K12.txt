@@ -1,0 +1,10 @@
+link
+https://labondemand.com/Console/47af5be3-1547-42d3-a3c2-d72ea305ae31?rc=10
+
+https://www.microsoft.com/en-us/evalcenter/search?k=server%202012&p=27&a=my-virtual-labs,learn&s=&r=20&so=
+
+https://blogs.technet.microsoft.com/serverandtools/2012/07/09/free-windows-server-2012-virtual-labs/
+
+https://social.technet.microsoft.com/Forums/windowsserver/en-US/67f2c739-aeaa-4b21-99fb-0c2f6c2ecafd/query-in-cmd-for-fsmo-roles?forum=winserverDS
+
+https://windowserver.wordpress.com/2011/05/10/maestros-de-operaciones-fsmo-roles-parte-1/
