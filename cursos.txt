@@ -13,4 +13,5 @@ http://www.aulaclic.es/index.htm
 https://www.iaeu.net/
 http://www.winguweb.org
 https://www.datacamp.com/home
+https://app.pluralsight.com
 
